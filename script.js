@@ -16,7 +16,7 @@ let songs=[
     {
         name:"Tu Hai Kahan",
         path:"tu hai kahan.mp3",
-        image:"tu-hai-kahan.jpg",
+        image:"tu h kahan.jpg",
         singer:"AUR"
     },
     {
